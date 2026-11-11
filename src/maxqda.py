@@ -1,0 +1,61 @@
+"""
+Thematic features extracted from MAXQDA_SUMMARY.csv.
+"""
+
+import numpy as np
+import pandas as pd
+
+VIZ_COLUMNS = [
+    "descriptive statistics",
+    "counterfactual analysis",
+    "anchor",
+    "LIME",
+    "waterfall",
+    "bee swarm",
+    "text slides",
+    "box plots",
+    "histograms",
+    "distribution of features",
+]
+
+PAIR_MERGE = {
+    "PK_DE_11": "PK_DE_11-12",
+    "PK_DE_12": "PK_DE_11-12",
+}
+
+
+def load_maxqda_summary(path="data/MAXQDA_SUMMARY.csv", merge_pairs=True):
+    df = pd.read_csv(path)
+    if merge_pairs:
+        df["participant_id"] = df["participant_id"].replace(PAIR_MERGE)
+        df = df.groupby(["participant_id", "code"], as_index=False)[VIZ_COLUMNS].sum()
+    return df
+
+
+def code_count_features(maxqda_df, normalize=True):
+    """Pivot the long table to one row per participant, one column per code."""
+    long_df = maxqda_df.copy()
+    long_df["total"] = long_df[VIZ_COLUMNS].sum(axis=1)
+    wide = long_df.pivot_table(
+        index="participant_id",
+        columns="code",
+        values="total",
+        aggfunc="sum",
+        fill_value=0,
+    ).astype(float)
+    if normalize:
+        row_sums = wide.sum(axis=1)
+        wide = wide.div(row_sums.replace(0, np.nan), axis=0).fillna(0)
+    wide.columns.name = None
+    return wide
+
+
+def top_codes_per_group(maxqda_df, groups, top_k=10, normalize=True):
+    """Most frequent codes per group."""
+    wide = code_count_features(maxqda_df, normalize=normalize)
+    grp = pd.Series(groups).reindex(wide.index)
+    grouped = wide.groupby(grp).mean()
+    return {
+        g: grouped.loc[g].sort_values(ascending=False).head(top_k)
+        for g in grouped.index
+    }
