@@ -1,6 +1,6 @@
 # XAI-FUNGI – podsumowanie podejść z semestru letniego 2026
 
-*Wersja robocza, 20.11.2026. Przygotowane na podstawie notebooków wariantów A–D (katalog `variants/`).*
+*Wersja robocza, 20.11.2026, aktualizacja 25.11.2026 (sekcje 3 i 7). Przygotowane na podstawie notebooków wariantów A–D (katalog `variants/`).*
 
 Wszystkie liczby pochodzą z zapisanych wyników w notebookach autorów. Liczby oznaczone jako
 **[weryfikacja V2]** policzyliśmy sami w ramach tego projektu, na danych i kodzie z repozytoriów wariantów
@@ -149,7 +149,7 @@ Z ocen powstają wykresy przebiegu wywiadu slajd po slajdzie. Moduł `XAIExplana
 wyjaśnienie zmian między kolejnymi slajdami (z cytatami z transkryptu). `Plot.py` liczy korelację przebiegów
 jednego uczestnika z pozostałymi i rysuje wykres 3D.
 
-**Co zostało zrobione.** Działający pipeline, zapisane oceny dla wszystkich uczestników (`llm_responses.json`),
+**Co zostało zrobione.** Działający pipeline, zapisane oceny dla 31 z 38 uczestników (`llm_responses.json`),
 wariant z oceną wszystkich slajdów naraz (`llm_responses_all_slide_at_once.json`), przykładowe wyjaśnienia.
 Autorzy nie przeprowadzili ilościowej oceny, czy profile różnią się między grupami ani czy oceny LLM są wiarygodne.
 Ten etap był zaplanowany jako następny na spotkaniu 14.04.
@@ -158,8 +158,10 @@ Ten etap był zaplanowany jako następny na spotkaniu 14.04.
 
 Na podstawie `llm_responses.json`:
 
-- Poprawny JSON z kompletem trzech ocen udało się odczytać dla **31 z 38** uczestników (500 ocen slajdów).
-  Dla 7 uczestników odpowiedzi modelu nie dają się sparsować.
+- Oceny są dostępne dla **31 z 38** uczestników (500 ocen slajdów). Brakuje wszystkich 7 wywiadów
+  prowadzonych przez badacza DR (`DR_IT_05`, `DR_SSH_01`–`04`, `DR_SSH_06`–`07`): parser wariantu D
+  (`TranscriptParser`) nie wyodrębnił z nich żadnego slajdu, więc LLM nie dostał tych danych.
+  W efekcie analiza dynamiki obejmuje tylko 12 z 18 osób z grupy SSH i 7 z 8 z grupy IT.
 - Średnie ocen w grupach:
 
 | Grupa | engagement | confidence | communication |
@@ -245,9 +247,44 @@ Wnioski:
 - Model dobierany na osobnym zbiorze walidacyjnym wewnątrz treningu.
 - N = 39 (rozdzielenie pliku `PK_DE_11-12` na dwóch uczestników, jak w wariancie A).
 
-**Zamiana LLM na „decision model” (JEV) w analizie dynamiki – do ustalenia.**
-Nie jest jasne, jaki model kryje się pod nazwą JEV. Możliwe interpretacje: architektury JEPA
-(Joint Embedding Predictive Architecture, w tym LLM-JEPA) albo model z projektu `cmano_jev` z wiki IIS.
-W obu przypadkach idea jest podobna: zamiast prosić LLM o wygenerowanie liczb w JSON, wyznaczyć stabilną
-reprezentację (embedding) wypowiedzi na każdym slajdzie i na niej oceniać dynamikę i podejmować decyzje.
-Przed implementacją trzeba potwierdzić z prowadzącym, o który model chodzi.
+**Zamiana LLM na „decision model” (JEV) w analizie dynamiki** – w toku, opis w sekcji 7.
+
+## 7. Analiza dynamiki z modelem JEV (V2, w toku)
+
+Kod: `variants/D_jev/analysis.ipynb` (gałąź `testAddJevModel`).
+
+**Model.** JEV (`jev-1.13-free`) udostępniany przez API opencode.ai. W przeciwieństwie do generatywnego LLM
+z wariantu D nie zwraca wolnego tekstu, tylko dla każdego zadanego pytania: ocenę na zadanej skali,
+pewność odpowiedzi i rozkład prawdopodobieństwa nad kategoriami. Odpowiedź ma zawsze poprawną strukturę,
+więc odpada problem niepoprawnego JSON-a.
+
+**Metoda.** Te same jednostki co w wariancie D (wypowiedzi uczestnika na jednym slajdzie, `parsed_transcripts.jsonl`)
+i te same trzy wymiary, ale w skali 0–2 z opisanymi kategoriami:
+
+| Wymiar | 0 | 1 | 2 |
+|---|---|---|---|
+| `engagement_level` | niskie zaangażowanie | umiarkowane | wysokie |
+| `confidence_level` | niska wyrażana pewność | umiarkowana | wysoka |
+| `communication_style` | zwięzły, bezpośredni | zrównoważony | rozbudowany, refleksyjny |
+
+Wynik zapisywany jest jako ocena (średnia ważona prawdopodobieństwami, 0–2), ocena znormalizowana (0–1),
+pewność modelu i pełny rozkład prawdopodobieństw.
+
+**Poprawka danych wejściowych.** `parsed_transcripts.jsonl` zawiera 1781 rekordów, z czego 849 to wypowiedzi
+badaczy (`PK`, `MW`, `MK`, `MZ`), a nie uczestników. Pierwsze uruchomienia oceniały również je.
+Notebook filtruje teraz rekordy do 932 rekordów 32 uczestników, a oceny badaczy zostały usunięte z wyników.
+
+**Stan na 25.11.2026.** Pilotaż na 51 rekordach (4 uczestników: `MK_IT_03`, `MK_IT_06`, `MK_SSH_02`, `MK_SSH_04`)
+z 932. Zapytania wykonywane są partiami po 20, z zapisem po każdym rekordzie.
+
+**Następne kroki.**
+
+1. Ocenić wszystkie 932 rekordy.
+2. Porównać JEV z LLM z wariantu D na tych samych slajdach (zgodność ocen, stabilność przy powtórzeniu zapytania).
+3. Powtórzyć test z sekcji 3: czy profile JEV odróżniają grupy DE / IT / SSH (dla LLM: F1 macro 0,32 – poziom losowy).
+4. Naprawić parser dla 7 wywiadów DR, żeby objąć wszystkich 39 uczestników.
+5. Wykorzystać `XAIExplanation` i `Plot` z wariantu D na wynikach JEV.
+
+**Uwaga.** Transkrypty są wysyłane do zewnętrznego API. Zbiór XAI-FUNGI jest publiczny (Zenodo),
+ale warto potwierdzić z prowadzącym, że takie użycie jest w porządku na potrzeby artykułu.
+
