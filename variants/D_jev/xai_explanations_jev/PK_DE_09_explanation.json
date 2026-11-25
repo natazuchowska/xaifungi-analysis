@@ -1,0 +1,526 @@
+[
+  {
+    "slide_pair": [
+      "__S00__",
+      "__S00__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.51 → 1.20 (niskie → umiarkowane, P = 78%), pewność JEV 67%; pewność siebie ↓ 1.98 → 0.31 (wysoka → niska, P = 70%), pewność JEV 55%; styl ↑ 0.00 → 2.00 (zwięzły → rozbudowany, P = 100%), pewność JEV 100%; długość wypowiedzi: 10 → 90 tokenów",
+    "changes": {
+      "engagement_level": 0.69,
+      "confidence_level": -1.67,
+      "communication_style": 2
+    },
+    "quote": "Natomiast samo przejście przez prezentację i to, co było przedstawiane, nie, ja bym tutaj nic nic nie zmieniał."
+  },
+  {
+    "slide_pair": [
+      "__S00__",
+      "__S1__"
+    ],
+    "explanation": "zaangażowanie: 1.20 → 0.98 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 0.31 → 0.00 (niska), pewność JEV 100%; styl ↓ 2.00 → 0.30 (rozbudowany → zwięzły, P = 78%), pewność JEV 55%; długość wypowiedzi: 90 → 19 tokenów",
+    "changes": {
+      "confidence_level": -0.31,
+      "communication_style": -1.7
+    },
+    "quote": "Że nie wiem, co będzie dalej [śmiech]."
+  },
+  {
+    "slide_pair": [
+      "__S1__",
+      "__S3__"
+    ],
+    "explanation": "zaangażowanie: 0.98 → 0.85 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.00 → 0.61 (niska → umiarkowana, P = 56%), pewność JEV 34%; styl: 0.30 → 0.38 (bez istotnej zmiany, zwięzły); długość wypowiedzi: 19 → 15 tokenów",
+    "changes": {
+      "confidence_level": 0.61
+    },
+    "quote": "I już tylko informacja."
+  },
+  {
+    "slide_pair": [
+      "__S3__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie: 0.85 → 1.07 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.61 → 0.39 (bez istotnej zmiany, niska); styl ↑ 0.38 → 0.66 (zwięzły), pewność JEV 1%; długość wypowiedzi: 15 → 20 tokenów",
+    "changes": {
+      "communication_style": 0.28
+    },
+    "quote": "Chyba slajd 5 teraz, jak można."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.07 → 0.67 (umiarkowane), pewność JEV 44%; pewność siebie ↓ 0.39 → 0.00 (niska), pewność JEV 100%; styl: 0.66 → 0.72 (bez istotnej zmiany, zwięzły); długość wypowiedzi: 20 → 17 tokenów",
+    "changes": {
+      "engagement_level": -0.4,
+      "confidence_level": -0.39
+    },
+    "quote": "Chyba slajd 5 teraz, jak można."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.67 → 1.43 (umiarkowane), pewność JEV 32%; pewność siebie: 0.00 → 0.14 (bez istotnej zmiany, niska); styl ↑ 0.72 → 1.79 (zwięzły → rozbudowany, P = 81%), pewność JEV 68%; długość wypowiedzi: 17 → 28 tokenów",
+    "changes": {
+      "engagement_level": 0.76,
+      "communication_style": 1.07
+    },
+    "quote": "Chyba slajd 5 teraz, jak można."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie: 1.43 → 1.20 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.14 → 1.70 (niska → wysoka, P = 80%), pewność JEV 55%; styl ↓ 1.79 → 0.02 (rozbudowany → zwięzły, P = 98%), pewność JEV 97%; długość wypowiedzi: 28 → 7 tokenów",
+    "changes": {
+      "confidence_level": 1.56,
+      "communication_style": -1.77
+    },
+    "quote": "Chyba slajd 5 teraz, jak można."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie: 1.20 → 1.43 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 1.70 → 0.35 (wysoka → niska, P = 66%), pewność JEV 49%; styl ↑ 0.02 → 1.99 (zwięzły → rozbudowany, P = 99%), pewność JEV 98%; długość wypowiedzi: 7 → 63 tokenów",
+    "changes": {
+      "confidence_level": -1.35,
+      "communication_style": 1.97
+    },
+    "quote": "Chyba slajd 5 teraz, jak można."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie: 1.43 → 1.42 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.35 → 1.20 (niska → umiarkowana, P = 62%), pewność JEV 43%; styl ↓ 1.99 → 0.37 (rozbudowany → zwięzły, P = 68%), pewność JEV 44%; długość wypowiedzi: 63 → 24 tokenów",
+    "changes": {
+      "confidence_level": 0.85,
+      "communication_style": -1.62
+    },
+    "quote": "Tak, mamy ponad 40000, jakąś jednostkę i ja znowu…"
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie: 1.42 → 1.45 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 1.20 → 0.00 (umiarkowana → niska, P = 100%), pewność JEV 100%; styl ↑ 0.37 → 2.00 (zwięzły → rozbudowany, P = 100%), pewność JEV 100%; długość wypowiedzi: 24 → 111 tokenów",
+    "changes": {
+      "confidence_level": -1.2,
+      "communication_style": 1.63
+    },
+    "quote": "Tak, mamy ponad 40000, jakąś jednostkę i ja znowu…"
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie: 1.45 → 1.30 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.00 → 0.01 (bez istotnej zmiany, niska); styl ↓ 2.00 → 1.55 (rozbudowany), pewność JEV 34%; długość wypowiedzi: 111 → 33 tokenów",
+    "changes": {
+      "communication_style": -0.45
+    },
+    "quote": "Ale dla mnie ogólnie zawsze przedstawienie…"
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.30 → 1.00 (umiarkowane), pewność JEV 68%; pewność siebie ↑ 0.01 → 0.42 (niska), pewność JEV 38%; styl ↓ 1.55 → 0.86 (rozbudowany → zwięzły, P = 44%), pewność JEV 0%; długość wypowiedzi: 33 → 16 tokenów",
+    "changes": {
+      "engagement_level": -0.3,
+      "confidence_level": 0.41,
+      "communication_style": -0.69
+    },
+    "quote": "Ale dla mnie ogólnie zawsze przedstawienie…"
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.00 → 1.54 (umiarkowane → wysokie, P = 54%), pewność JEV 31%; pewność siebie: 0.42 → 0.57 (bez istotnej zmiany, umiarkowana); styl ↑ 0.86 → 1.98 (zwięzły → rozbudowany, P = 98%), pewność JEV 97%; długość wypowiedzi: 16 → 51 tokenów",
+    "changes": {
+      "engagement_level": 0.54,
+      "communication_style": 1.12
+    },
+    "quote": "Ale dla mnie ogólnie zawsze przedstawienie…"
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie: 1.54 → 1.68 (bez istotnej zmiany, wysokie); pewność siebie: 0.57 → 0.55 (bez istotnej zmiany, niska); styl: 1.98 → 1.94 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 51 → 24 tokenów",
+    "changes": {},
+    "quote": "Ale to ja bym musiał mieć, znaczy przyjąć pewne założenie, że według mnie ten wykres przedstawia to i to i wtedy bym powiedział, że że tak albo nie."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie: 1.68 → 1.51 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.55 → 0.03 (niska), pewność JEV 96%; styl: 1.94 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 24 → 99 tokenów",
+    "changes": {
+      "confidence_level": -0.52
+    },
+    "quote": "Ale to ja bym musiał mieć, znaczy przyjąć pewne założenie, że według mnie ten wykres przedstawia to i to i wtedy bym powiedział, że że tak albo nie."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie: 1.51 → 1.65 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.03 → 0.36 (niska), pewność JEV 48%; styl: 2.00 → 1.97 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 99 → 92 tokenów",
+    "changes": {
+      "confidence_level": 0.33
+    },
+    "quote": "Natomiast tutaj nawet przy tej przy tej legendzie nie do końca jestem pewien, jak odczytać dokładnie ten wykres."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.65 → 1.07 (wysokie → umiarkowane, P = 74%), pewność JEV 61%; pewność siebie ↓ 0.36 → 0.00 (niska), pewność JEV 100%; styl: 1.97 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 92 → 49 tokenów",
+    "changes": {
+      "engagement_level": -0.58,
+      "confidence_level": -0.36
+    },
+    "quote": "Ale to ja bym musiał mieć, znaczy przyjąć pewne założenie, że według mnie ten wykres przedstawia to i to i wtedy bym powiedział, że że tak albo nie."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.07 → 1.71 (umiarkowane → wysokie, P = 72%), pewność JEV 58%; pewność siebie ↑ 0.00 → 0.29 (niska), pewność JEV 58%; styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 49 → 144 tokenów",
+    "changes": {
+      "engagement_level": 0.64,
+      "confidence_level": 0.29
+    },
+    "quote": "Chyba tak daleko, że ja nigdy się do tej cechy nie dokopałem, oznaczając jakiegoś grzyba."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie: 1.71 → 1.63 (bez istotnej zmiany, wysokie); pewność siebie: 0.29 → 0.40 (bez istotnej zmiany, niska); styl: 1.99 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 144 → 114 tokenów",
+    "changes": {},
+    "quote": "Chyba tak daleko, że ja nigdy się do tej cechy nie dokopałem, oznaczając jakiegoś grzyba."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.63 → 0.99 (wysokie → umiarkowane, P = 77%), pewność JEV 66%; pewność siebie ↑ 0.40 → 0.98 (niska → umiarkowana, P = 57%), pewność JEV 36%; styl ↓ 2.00 → 0.01 (rozbudowany → zwięzły, P = 99%), pewność JEV 98%; długość wypowiedzi: 114 → 13 tokenów",
+    "changes": {
+      "engagement_level": -0.64,
+      "confidence_level": 0.58,
+      "communication_style": -1.99
+    },
+    "quote": "Jeżeli jesteśmy w zupełnie innym miejscu, no to musimy być pewni, że taki grzyb, którego szukamy, na przykład tam nie wystąpi, no bo nie mamy takiego drzewa, prawda?"
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.99 → 1.99 (umiarkowane → wysokie, P = 99%), pewność JEV 98%; pewność siebie ↑ 0.98 → 1.49 (umiarkowana → wysoka, P = 51%), pewność JEV 24%; styl ↑ 0.01 → 2.00 (zwięzły → rozbudowany, P = 100%), pewność JEV 100%; długość wypowiedzi: 13 → 221 tokenów",
+    "changes": {
+      "engagement_level": 1.0,
+      "confidence_level": 0.51,
+      "communication_style": 1.99
+    },
+    "quote": "Jeżeli jesteśmy w zupełnie innym miejscu, no to musimy być pewni, że taki grzyb, którego szukamy, na przykład tam nie wystąpi, no bo nie mamy takiego drzewa, prawda?"
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.99 → 1.61 (wysokie), pewność JEV 40%; pewność siebie ↓ 1.49 → 0.92 (wysoka → umiarkowana, P = 77%), pewność JEV 66%; styl: 2.00 → 1.97 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 221 → 81 tokenów",
+    "changes": {
+      "engagement_level": -0.38,
+      "confidence_level": -0.57
+    },
+    "quote": "Jeżeli jesteśmy w zupełnie innym miejscu, no to musimy być pewni, że taki grzyb, którego szukamy, na przykład tam nie wystąpi, no bo nie mamy takiego drzewa, prawda?"
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 1.61 → 1.42 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.92 → 1.69 (umiarkowana → wysoka, P = 75%), pewność JEV 53%; styl ↓ 1.97 → 0.06 (rozbudowany → zwięzły, P = 96%), pewność JEV 91%; długość wypowiedzi: 81 → 7 tokenów",
+    "changes": {
+      "confidence_level": 0.77,
+      "communication_style": -1.91
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.42 → 0.99 (umiarkowane), pewność JEV 72%; pewność siebie ↓ 1.69 → 0.18 (wysoka → niska, P = 82%), pewność JEV 73%; styl ↑ 0.06 → 1.51 (zwięzły → rozbudowany, P = 64%), pewność JEV 26%; długość wypowiedzi: 7 → 22 tokenów",
+    "changes": {
+      "engagement_level": -0.43,
+      "confidence_level": -1.51,
+      "communication_style": 1.45
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 0.99 → 0.76 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.18 → 0.64 (niska), pewność JEV 4%; styl ↓ 1.51 → 0.04 (rozbudowany → zwięzły, P = 97%), pewność JEV 94%; długość wypowiedzi: 22 → 10 tokenów",
+    "changes": {
+      "confidence_level": 0.46,
+      "communication_style": -1.47
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 0.76 → 0.82 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.64 → 1.93 (niska → wysoka, P = 94%), pewność JEV 90%; styl: 0.04 → 0.00 (bez istotnej zmiany, zwięzły); długość wypowiedzi: 10 → 6 tokenów",
+    "changes": {
+      "confidence_level": 1.29
+    },
+    "quote": "No właśnie, no właśnie nie."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.82 → 1.50 (umiarkowane → wysokie, P = 51%), pewność JEV 25%; pewność siebie ↓ 1.93 → 1.17 (wysoka → umiarkowana, P = 68%), pewność JEV 52%; styl ↑ 0.00 → 1.99 (zwięzły → rozbudowany, P = 99%), pewność JEV 98%; długość wypowiedzi: 6 → 63 tokenów",
+    "changes": {
+      "engagement_level": 0.68,
+      "confidence_level": -0.76,
+      "communication_style": 1.99
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 1.50 → 1.45 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 1.17 → 0.88 (umiarkowana), pewność JEV 44%; styl ↓ 1.99 → 1.15 (rozbudowany), pewność JEV 0%; długość wypowiedzi: 63 → 10 tokenów",
+    "changes": {
+      "confidence_level": -0.29,
+      "communication_style": -0.84
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.45 → 1.13 (umiarkowane), pewność JEV 72%; pewność siebie ↓ 0.88 → 0.52 (umiarkowana), pewność JEV 28%; styl ↓ 1.15 → 0.82 (rozbudowany → zwięzły, P = 42%), pewność JEV 0%; długość wypowiedzi: 10 → 15 tokenów",
+    "changes": {
+      "engagement_level": -0.32,
+      "confidence_level": -0.36,
+      "communication_style": -0.33
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.13 → 1.89 (umiarkowane → wysokie, P = 89%), pewność JEV 84%; pewność siebie ↑ 0.52 → 1.08 (umiarkowana), pewność JEV 32%; styl ↑ 0.82 → 1.99 (zwięzły → rozbudowany, P = 99%), pewność JEV 98%; długość wypowiedzi: 15 → 111 tokenów",
+    "changes": {
+      "engagement_level": 0.76,
+      "confidence_level": 0.56,
+      "communication_style": 1.17
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.89 → 0.97 (wysokie → umiarkowane, P = 51%), pewność JEV 26%; pewność siebie ↑ 1.08 → 1.87 (umiarkowana → wysoka, P = 91%), pewność JEV 80%; styl ↓ 1.99 → 0.01 (rozbudowany → zwięzły, P = 100%), pewność JEV 100%; długość wypowiedzi: 111 → 27 tokenów",
+    "changes": {
+      "engagement_level": -0.92,
+      "confidence_level": 0.79,
+      "communication_style": -1.98
+    },
+    "quote": "Czy zmiany przedstawione na wizualizacji mają sens w kontekście rzeczywistych właściwości grzybów i są zgodne z twoją wiedzą o grzybach?"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.97 → 1.27 (umiarkowane), pewność JEV 33%; pewność siebie ↓ 1.87 → 0.13 (wysoka → niska, P = 90%), pewność JEV 82%; styl ↑ 0.01 → 1.89 (zwięzły → rozbudowany, P = 91%), pewność JEV 84%; długość wypowiedzi: 27 → 98 tokenów",
+    "changes": {
+      "engagement_level": 0.3,
+      "confidence_level": -1.74,
+      "communication_style": 1.88
+    },
+    "quote": "Znaczy, powiem tak, poza tym, co pani powiedziała, to ja niestety nowych rzeczy nie dostrzegam, tak, natomiast ja bym jeszcze raz podkreślił to, żeby kilka razy się zastanowić, zanim się …"
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.27 → 1.94 (umiarkowane → wysokie, P = 94%), pewność JEV 91%; pewność siebie ↑ 0.13 → 1.07 (niska → umiarkowana, P = 69%), pewność JEV 53%; styl: 1.89 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 98 → 383 tokenów",
+    "changes": {
+      "engagement_level": 0.67,
+      "confidence_level": 0.94
+    },
+    "quote": "Znaczy, powiem tak, poza tym, co pani powiedziała, to ja niestety nowych rzeczy nie dostrzegam, tak, natomiast ja bym jeszcze raz podkreślił to, żeby kilka razy się zastanowić, zanim się …"
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.94 → 1.09 (wysokie → umiarkowane, P = 58%), pewność JEV 37%; pewność siebie ↑ 1.07 → 1.83 (umiarkowana → wysoka, P = 87%), pewność JEV 76%; styl ↓ 2.00 → 0.32 (rozbudowany → zwięzły, P = 79%), pewność JEV 53%; długość wypowiedzi: 383 → 16 tokenów",
+    "changes": {
+      "engagement_level": -0.85,
+      "confidence_level": 0.76,
+      "communication_style": -1.68
+    },
+    "quote": "No to znowu odczytuję, że na osi x są centymetry, tak, natomiast na osi y nie mam zielonego pojęcia, co jest no."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.09 → 1.49 (umiarkowane → wysokie, P = 50%), pewność JEV 24%; pewność siebie ↓ 1.83 → 0.16 (wysoka → niska, P = 84%), pewność JEV 76%; styl ↑ 0.32 → 2.00 (zwięzły → rozbudowany, P = 100%), pewność JEV 100%; długość wypowiedzi: 16 → 137 tokenów",
+    "changes": {
+      "engagement_level": 0.4,
+      "confidence_level": -1.67,
+      "communication_style": 1.68
+    },
+    "quote": "No to znowu odczytuję, że na osi x są centymetry, tak, natomiast na osi y nie mam zielonego pojęcia, co jest no."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.49 → 1.09 (wysokie → umiarkowane, P = 81%), pewność JEV 72%; pewność siebie: 0.16 → 0.12 (bez istotnej zmiany, niska); styl: 2.00 → 1.93 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 137 → 42 tokenów",
+    "changes": {
+      "engagement_level": -0.4
+    },
+    "quote": "No to znowu odczytuję, że na osi x są centymetry, tak, natomiast na osi y nie mam zielonego pojęcia, co jest no."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie: 1.09 → 1.23 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.12 → 0.24 (bez istotnej zmiany, niska); styl ↓ 1.93 → 0.67 (rozbudowany → zwięzły, P = 50%), pewność JEV 0%; długość wypowiedzi: 42 → 22 tokenów",
+    "changes": {
+      "communication_style": -1.26
+    },
+    "quote": "No to znowu odczytuję, że na osi x są centymetry, tak, natomiast na osi y nie mam zielonego pojęcia, co jest no."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie: 1.23 → 1.07 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.24 → 0.00 (bez istotnej zmiany, niska); styl ↑ 0.67 → 1.96 (zwięzły → rozbudowany, P = 97%), pewność JEV 96%; długość wypowiedzi: 22 → 36 tokenów",
+    "changes": {
+      "communication_style": 1.29
+    },
+    "quote": "oczywiście jeżeli w ten sposób do tego podejść, to znowu jak najbardziej ja bym pozmieniał te cechy, po prostu bym je pozmieniał."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.07 → 1.72 (umiarkowane → wysokie, P = 73%), pewność JEV 60%; pewność siebie ↑ 0.00 → 0.46 (niska), pewność JEV 31%; styl: 1.96 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 36 → 260 tokenów",
+    "changes": {
+      "engagement_level": 0.65,
+      "confidence_level": 0.46
+    },
+    "quote": "oczywiście jeżeli w ten sposób do tego podejść, to znowu jak najbardziej ja bym pozmieniał te cechy, po prostu bym je pozmieniał."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.72 → 0.55 (wysokie → umiarkowane, P = 52%), pewność JEV 28%; pewność siebie ↑ 0.46 → 0.85 (niska → umiarkowana, P = 56%), pewność JEV 34%; styl ↓ 2.00 → 0.07 (rozbudowany → zwięzły, P = 95%), pewność JEV 91%; długość wypowiedzi: 260 → 12 tokenów",
+    "changes": {
+      "engagement_level": -1.17,
+      "confidence_level": 0.39,
+      "communication_style": -1.93
+    },
+    "quote": "oczywiście jeżeli w ten sposób do tego podejść, to znowu jak najbardziej ja bym pozmieniał te cechy, po prostu bym je pozmieniał."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.55 → 1.28 (umiarkowane), pewność JEV 49%; pewność siebie: 0.85 → 0.67 (bez istotnej zmiany, umiarkowana); styl ↑ 0.07 → 1.40 (zwięzły → rozbudowany, P = 59%), pewność JEV 10%; długość wypowiedzi: 12 → 27 tokenów",
+    "changes": {
+      "engagement_level": 0.73,
+      "communication_style": 1.33
+    },
+    "quote": "oczywiście jeżeli w ten sposób do tego podejść, to znowu jak najbardziej ja bym pozmieniał te cechy, po prostu bym je pozmieniał."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.28 → 1.78 (umiarkowane → wysokie, P = 78%), pewność JEV 67%; pewność siebie: 0.67 → 0.83 (bez istotnej zmiany, umiarkowana); styl ↑ 1.40 → 2.00 (rozbudowany), pewność JEV 100%; długość wypowiedzi: 27 → 144 tokenów",
+    "changes": {
+      "engagement_level": 0.5,
+      "communication_style": 0.6
+    },
+    "quote": "oczywiście jeżeli w ten sposób do tego podejść, to znowu jak najbardziej ja bym pozmieniał te cechy, po prostu bym je pozmieniał."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S14__"
+    ],
+    "explanation": "zaangażowanie: 1.78 → 1.60 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.83 → 0.23 (umiarkowana → niska, P = 78%), pewność JEV 67%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 144 → 85 tokenów",
+    "changes": {
+      "confidence_level": -0.6
+    },
+    "quote": "Tak mi się przynajmniej wydaje, że w tym modelu mogłoby to w ten sposób wyglądać."
+  },
+  {
+    "slide_pair": [
+      "__S14__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.60 → 1.59 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.23 → 1.30 (niska → wysoka, P = 51%), pewność JEV 0%; styl: 2.00 → 1.97 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 85 → 34 tokenów",
+    "changes": {
+      "confidence_level": 1.07
+    },
+    "quote": "To znaczy, nie, nie, nie, nie widzę tutaj takiego slajdu, który nie byłby potrzebny."
+  }
+]

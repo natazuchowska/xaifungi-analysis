@@ -229,7 +229,7 @@ Funkcja generuje wykres liniowy przedstawiający zmianę wszystkich trzech metry
 
 ## Wyjaśnianie zmian — `XAIExplanation`
 
-**Plik:** `src/XAIExplanation.py`
+**Plik:** `XAIExplanationJev.py`
 
 Klasa `XAIExplanation` analizuje **różnice w metrykach między kolejnymi slajdami** dla danego uczestnika. Dla każdej pary sąsiednich slajdów model językowy generuje narracyjne wyjaśnienie, co mogło spowodować zmianę w ocenie.
 

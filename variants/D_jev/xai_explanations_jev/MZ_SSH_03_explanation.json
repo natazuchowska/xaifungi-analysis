@@ -1,0 +1,121 @@
+[
+  {
+    "slide_pair": [
+      "__S00__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie: 1.65 → 1.60 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.27 → 0.00 (niska), pewność JEV 100%; styl ↑ 1.45 → 2.00 (rozbudowany), pewność JEV 100%; długość wypowiedzi: 38 → 269 tokenów",
+    "changes": {
+      "confidence_level": -0.27,
+      "communication_style": 0.55
+    },
+    "quote": "Chyba się zgadza, że tutaj są wszystkie?"
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie: 1.60 → 1.82 (bez istotnej zmiany, wysokie); pewność siebie: 0.00 → 0.02 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 269 → 313 tokenów",
+    "changes": {},
+    "quote": "Nie wiem czy coś jeszcze, czy już do 5."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie: 1.82 → 1.81 (bez istotnej zmiany, wysokie); pewność siebie: 0.02 → 0.11 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 313 → 393 tokenów",
+    "changes": {},
+    "quote": "Nie wiem, czy coś tu jeszcze, czy już do 6?"
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie: 1.81 → 1.57 (bez istotnej zmiany, wysokie); pewność siebie: 0.11 → 0.01 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 393 → 733 tokenów",
+    "changes": {},
+    "quote": "Teraz nie wiem, czy mam myśleć od nowa, czy sobie przypomnieć jak to wtedy było."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie: 1.57 → 1.47 (bez istotnej zmiany, wysokie); pewność siebie: 0.01 → 0.01 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 733 → 1067 tokenów",
+    "changes": {},
+    "quote": "Chyba chyba tyle mam do powiedzenia na ten temat."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.47 → 1.90 (wysokie), pewność JEV 85%; pewność siebie: 0.01 → 0.23 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 1067 → 557 tokenów",
+    "changes": {
+      "engagement_level": 0.43
+    },
+    "quote": "Ja nie wiem, nie wiem co z tym zrobić, ale to może coś znaczyć."
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.90 → 1.63 (wysokie), pewność JEV 44%; pewność siebie: 0.23 → 0.01 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 557 → 556 tokenów",
+    "changes": {
+      "engagement_level": -0.27
+    },
+    "quote": "Też pamiętam, że to było w tym, w ankiecie, z tym jeszcze większy problem miałem wtedy, ale to jest troszkę, ale to jest właśnie jest więcej, więcej danych chyba."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie: 1.63 → 1.66 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.01 → 0.26 (niska), pewność JEV 62%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 556 → 350 tokenów",
+    "changes": {
+      "confidence_level": 0.25
+    },
+    "quote": "No dobra, to chyba w miarę rozumiem, a jak coś to będę wracać."
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie: 1.66 → 1.68 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.26 → 0.00 (niska), pewność JEV 100%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 350 → 859 tokenów",
+    "changes": {
+      "confidence_level": -0.26
+    },
+    "quote": "Ogólnie chyba z tego co wiem."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie: 1.68 → 1.77 (bez istotnej zmiany, wysokie); pewność siebie: 0.00 → 0.01 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 859 → 1198 tokenów",
+    "changes": {},
+    "quote": "Nie rozumiem dlaczego?"
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie: 1.77 → 1.80 (bez istotnej zmiany, wysokie); pewność siebie: 0.01 → 0.13 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 1198 → 2435 tokenów",
+    "changes": {},
+    "quote": "Niektóre dane mi się wydają, troszkę inne od siebie i nie pamiętam, no tak jak to miałam zaskoczenia z tym zmianą wysokości."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.80 → 1.84 (bez istotnej zmiany, wysokie); pewność siebie: 0.13 → 0.01 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 2435 → 2673 tokenów",
+    "changes": {},
+    "quote": "No nie wiem."
+  }
+]

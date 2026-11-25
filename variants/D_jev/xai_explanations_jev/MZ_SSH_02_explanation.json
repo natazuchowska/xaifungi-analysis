@@ -1,0 +1,121 @@
+[
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.19 → 1.45 (umiarkowane), pewność JEV 29%; pewność siebie ↑ 0.15 → 0.63 (niska → umiarkowana, P = 57%), pewność JEV 35%; styl ↓ 1.90 → 1.34 (rozbudowany), pewność JEV 1%; długość wypowiedzi: 107 → 69 tokenów",
+    "changes": {
+      "engagement_level": 0.26,
+      "confidence_level": 0.48,
+      "communication_style": -0.56
+    },
+    "quote": "Slajd 5 przechodzę na slajd 5 znowu widzę 9 wykresów, są one znowu małe."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.45 → 0.77 (umiarkowane), pewność JEV 55%; pewność siebie ↓ 0.63 → 0.02 (umiarkowana → niska, P = 98%), pewność JEV 97%; styl: 1.34 → 1.36 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 69 → 82 tokenów",
+    "changes": {
+      "engagement_level": -0.68,
+      "confidence_level": -0.61
+    },
+    "quote": "Które wyglądają jak tabelki, mogłyby być w tabelkach i byłyby chyba bardziej przejrzyste."
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.77 → 1.34 (umiarkowane), pewność JEV 40%; pewność siebie: 0.02 → 0.01 (bez istotnej zmiany, niska); styl ↑ 1.36 → 2.00 (rozbudowany), pewność JEV 100%; długość wypowiedzi: 82 → 287 tokenów",
+    "changes": {
+      "engagement_level": 0.57,
+      "communication_style": 0.64
+    },
+    "quote": "A tak patrzę na wykres, widzę na tym wykresie."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie: 1.34 → 1.31 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.01 → 0.08 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 287 → 449 tokenów",
+    "changes": {},
+    "quote": "To chyba no przechodzę do slajdu 8 wodospad."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.31 → 1.91 (umiarkowane → wysokie, P = 91%), pewność JEV 86%; pewność siebie: 0.08 → 0.22 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 449 → 471 tokenów",
+    "changes": {
+      "engagement_level": 0.6
+    },
+    "quote": "Wykres lime Widzę znowu czerwony i niebieski na wykresie i znowu te cechy, co wcześniej szerokość, kolor, wysokość."
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.91 → 1.55 (wysokie), pewność JEV 31%; pewność siebie: 0.22 → 0.00 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 471 → 373 tokenów",
+    "changes": {
+      "engagement_level": -0.36
+    },
+    "quote": "Widzę, widzę tylko muszę się przybliżyć, ale widzę."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie: 1.55 → 1.46 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.00 → 0.00 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 373 → 244 tokenów",
+    "changes": {},
+    "quote": "I widzę tutaj 6 wykresów kolory teraz fioletowe i szare."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.46 → 1.92 (umiarkowane → wysokie, P = 92%), pewność JEV 88%; pewność siebie: 0.00 → 0.12 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 244 → 1277 tokenów",
+    "changes": {
+      "engagement_level": 0.46
+    },
+    "quote": "I jest jeden, jedna, nie wiem, kostka zaznaczona na inny odcień niebieskiego."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S14__"
+    ],
+    "explanation": "zaangażowanie: 1.92 → 1.97 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.12 → 0.95 (niska → umiarkowana, P = 71%), pewność JEV 56%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 1277 → 374 tokenów",
+    "changes": {
+      "confidence_level": 0.83
+    },
+    "quote": "Miałyby tylko 10 13% wpływu na na na na wynik na pewność wyników."
+  },
+  {
+    "slide_pair": [
+      "__S14__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie: 1.97 → 1.88 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.95 → 0.66 (umiarkowana), pewność JEV 49%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 374 → 1263 tokenów",
+    "changes": {
+      "confidence_level": -0.29
+    },
+    "quote": "Chyba wykres wodospad."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.88 → 1.94 (bez istotnej zmiany, wysokie); pewność siebie: 0.66 → 0.57 (bez istotnej zmiany, umiarkowana); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 1263 → 1743 tokenów",
+    "changes": {},
+    "quote": "ok no, to zdecydowanie dla mnie."
+  }
+]

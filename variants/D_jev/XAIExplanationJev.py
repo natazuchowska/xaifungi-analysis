@@ -3,7 +3,7 @@ from collections import defaultdict
 from src.LocalLLM import LocalLLM
 
 
-class XAIExplanation:
+class XAIExplanationJev:
   def __init__(self, llm=None, participant_id=None, llm_responses=None, transcript=None):
     self.llm = llm or LocalLLM()
     self.participant_id = participant_id
@@ -12,7 +12,7 @@ class XAIExplanation:
 
   def _extract_transcript(self, transcript_path, participant_id):
     try:
-      with open(transcript_path, 'r') as f:
+      with open(transcript_path, 'r', encoding='utf-8') as f:
         grouped = defaultdict(list)
         for line in f:
           line = line.strip()
@@ -28,7 +28,7 @@ class XAIExplanation:
 
   def _extract_llm_responses_for_participant(self, response_path, participant_id):
     try:
-      with open(response_path, 'r') as f:
+      with open(response_path, 'r',  encoding='utf-8') as f:
         data = json.load(f)
         if participant_id not in data:
           return

@@ -1,0 +1,145 @@
+[
+  {
+    "slide_pair": [
+      "__S00__",
+      "__S1__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.71 → 1.03 (umiarkowane), pewność JEV 44%; pewność siebie: 0.15 → 0.20 (bez istotnej zmiany, niska); styl ↑ 0.54 → 1.85 (zwięzły → rozbudowany, P = 88%), pewność JEV 78%; długość wypowiedzi: 12 → 50 tokenów",
+    "changes": {
+      "engagement_level": 0.32,
+      "communication_style": 1.31
+    },
+    "quote": "Czy jeszcze właśnie to jak to jest w Kalifornii, to czy właśnie w Ameryce?"
+  },
+  {
+    "slide_pair": [
+      "__S1__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.03 → 1.44 (umiarkowane), pewność JEV 32%; pewność siebie: 0.20 → 0.16 (bez istotnej zmiany, niska); styl: 1.85 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 50 → 283 tokenów",
+    "changes": {
+      "engagement_level": 0.41
+    },
+    "quote": "Tutaj wydaje mi się, że to są takie podstawowe wykresy."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.44 → 1.73 (umiarkowane → wysokie, P = 74%), pewność JEV 61%; pewność siebie: 0.16 → 0.08 (bez istotnej zmiany, niska); styl: 1.99 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 283 → 128 tokenów",
+    "changes": {
+      "engagement_level": 0.29
+    },
+    "quote": "A to tutaj można by chyba rozdzielić, bo są tak ogólnie miejsca, lasy, wrzosowiska, ścieżki miejskie, a z 2 strony są takie bardzo już konkretne ściółki, trawa, liście."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.73 → 1.26 (wysokie → umiarkowane, P = 59%), pewność JEV 38%; pewność siebie: 0.08 → 0.00 (bez istotnej zmiany, niska); styl: 1.99 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 128 → 208 tokenów",
+    "changes": {
+      "engagement_level": -0.47
+    },
+    "quote": "Nie, nie wiem."
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.26 → 1.90 (umiarkowane → wysokie, P = 90%), pewność JEV 85%; pewność siebie: 0.00 → 0.07 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 208 → 318 tokenów",
+    "changes": {
+      "engagement_level": 0.64
+    },
+    "quote": "No to chyba też to tyczy się tylko tych 3 pierwszych."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie: 1.90 → 1.89 (bez istotnej zmiany, wysokie); pewność siebie: 0.07 → 0.11 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 318 → 793 tokenów",
+    "changes": {},
+    "quote": "O K to chyba, możemy przejść dalej."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie: 1.89 → 1.90 (bez istotnej zmiany, wysokie); pewność siebie: 0.11 → 0.07 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 793 → 480 tokenów",
+    "changes": {},
+    "quote": "No mamy te same dane, tylko ten wykres wydaje mi się, że jest to najbardziej czytelny z tych 3, bo jest właśnie bezpośrednio wartość zerowa i teraz czy posiadanie takiej …"
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 1.90 → 1.79 (bez istotnej zmiany, wysokie); pewność siebie: 0.07 → 0.15 (bez istotnej zmiany, niska); styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 480 → 290 tokenów",
+    "changes": {},
+    "quote": "No myślę, że tak."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.79 → 1.17 (wysokie → umiarkowane, P = 66%), pewność JEV 49%; pewność siebie ↑ 0.15 → 1.04 (niska → umiarkowana, P = 56%), pewność JEV 34%; styl ↓ 1.99 → 1.56 (rozbudowany), pewność JEV 35%; długość wypowiedzi: 290 → 58 tokenów",
+    "changes": {
+      "engagement_level": -0.62,
+      "confidence_level": 0.89,
+      "communication_style": -0.43
+    },
+    "quote": "No ale pod względem danych no to mówi mi tyle, że mam rację w tym, żeby go nie słuchać, bo może się mylić."
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.17 → 1.87 (umiarkowane → wysokie, P = 87%), pewność JEV 80%; pewność siebie ↓ 1.04 → 0.05 (umiarkowana → niska, P = 95%), pewność JEV 92%; styl ↑ 1.56 → 2.00 (rozbudowany), pewność JEV 100%; długość wypowiedzi: 58 → 491 tokenów",
+    "changes": {
+      "engagement_level": 0.7,
+      "confidence_level": -0.99,
+      "communication_style": 0.44
+    },
+    "quote": "A no to może tak ok no to będzie średnica po prostu w centymetrach."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.87 → 1.39 (wysokie → umiarkowane, P = 59%), pewność JEV 38%; pewność siebie: 0.05 → 0.00 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 491 → 421 tokenów",
+    "changes": {
+      "engagement_level": -0.48
+    },
+    "quote": "Ale generalnie ten slajd mi się kompletnie nie podoba."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.39 → 1.95 (umiarkowane → wysokie, P = 95%), pewność JEV 92%; pewność siebie ↑ 0.00 → 1.18 (niska → umiarkowana, P = 68%), pewność JEV 52%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 421 → 807 tokenów",
+    "changes": {
+      "engagement_level": 0.56,
+      "confidence_level": 1.18
+    },
+    "quote": "No to poszłabym najpierw na pewno w słynną wysokość trzonu."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.95 → 1.94 (bez istotnej zmiany, wysokie); pewność siebie ↓ 1.18 → 0.20 (umiarkowana → niska, P = 80%), pewność JEV 70%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 807 → 815 tokenów",
+    "changes": {
+      "confidence_level": -0.98
+    },
+    "quote": "Wydaje mi się, tak kontrast kolorów."
+  }
+]

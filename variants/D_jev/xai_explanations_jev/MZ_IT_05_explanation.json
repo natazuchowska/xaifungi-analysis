@@ -1,0 +1,145 @@
+[
+  {
+    "slide_pair": [
+      "__S00__",
+      "__S3__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.44 → 0.41 (umiarkowane → niskie, P = 60%), pewność JEV 38%; pewność siebie ↑ 0.17 → 0.85 (niska → umiarkowana, P = 55%), pewność JEV 33%; styl ↓ 1.95 → 0.04 (rozbudowany → zwięzły, P = 97%), pewność JEV 96%; długość wypowiedzi: 24 → 17 tokenów",
+    "changes": {
+      "engagement_level": -1.03,
+      "confidence_level": 0.68,
+      "communication_style": -1.91
+    },
+    "quote": "Ale nic już tutaj się za bardzo do tego nie odnosi."
+  },
+  {
+    "slide_pair": [
+      "__S3__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.41 → 1.21 (niskie → umiarkowane, P = 71%), pewność JEV 56%; pewność siebie ↓ 0.85 → 0.03 (umiarkowana → niska, P = 97%), pewność JEV 96%; styl ↑ 0.04 → 1.96 (zwięzły → rozbudowany, P = 97%), pewność JEV 96%; długość wypowiedzi: 17 → 101 tokenów",
+    "changes": {
+      "engagement_level": 0.8,
+      "confidence_level": -0.82,
+      "communication_style": 1.92
+    },
+    "quote": "Tak przedstawić, jak rozumiem rozkład sposobu przerastania blaszek, więc przejdę sobie od razu do slajdu 4."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie: 1.21 → 1.21 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.03 → 1.15 (niska → umiarkowana, P = 63%), pewność JEV 44%; styl: 1.96 → 1.77 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 101 → 63 tokenów",
+    "changes": {
+      "confidence_level": 1.12
+    },
+    "quote": "Jakiś tam wycinek w trawie, a resztę tak naprawdę takie przypadki marginalne."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie: 1.21 → 1.23 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 1.15 → 0.00 (umiarkowana → niska, P = 100%), pewność JEV 100%; styl: 1.77 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 63 → 238 tokenów",
+    "changes": {
+      "confidence_level": -1.15
+    },
+    "quote": "Te wykresy szczerze mówiąc, nie wiem, czy można by to jakoś zmienić, ale jest to strasznie dużo tych takich."
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.23 → 1.85 (umiarkowane → wysokie, P = 85%), pewność JEV 78%; pewność siebie: 0.00 → 0.16 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 238 → 371 tokenów",
+    "changes": {
+      "engagement_level": 0.62
+    },
+    "quote": "Czyli rozumiem, że."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.85 → 1.59 (wysokie), pewność JEV 38%; pewność siebie: 0.16 → 0.09 (bez istotnej zmiany, niska); styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 371 → 551 tokenów",
+    "changes": {
+      "engagement_level": -0.26
+    },
+    "quote": "Czyli rozumiem, że wysokość trzonu?"
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie: 1.59 → 1.57 (bez istotnej zmiany, wysokie); pewność siebie: 0.09 → 0.08 (bez istotnej zmiany, niska); styl: 1.99 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 551 → 440 tokenów",
+    "changes": {},
+    "quote": "Tutaj tutaj się zastanawiam szczerze mówiąc, czy czy rozumiem pytanie?"
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 1.57 → 1.33 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.08 → 0.02 (bez istotnej zmiany, niska); styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 440 → 265 tokenów",
+    "changes": {},
+    "quote": "I rozumiem, że on wtedy po prostu w zależności od klasy i i innych."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.33 → 1.04 (umiarkowane), pewność JEV 43%; pewność siebie ↑ 0.02 → 1.67 (niska → wysoka, P = 72%), pewność JEV 52%; styl ↓ 1.99 → 0.14 (rozbudowany → zwięzły, P = 87%), pewność JEV 79%; długość wypowiedzi: 265 → 18 tokenów",
+    "changes": {
+      "engagement_level": -0.29,
+      "confidence_level": 1.65,
+      "communication_style": -1.85
+    },
+    "quote": "Badaniu wykorzystano zaawansowany model klasyfikacje klasyfikacja wzmocnienia gradientowego."
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.04 → 1.77 (umiarkowane → wysokie, P = 78%), pewność JEV 67%; pewność siebie ↓ 1.67 → 0.08 (wysoka → niska, P = 92%), pewność JEV 88%; styl ↑ 0.14 → 2.00 (zwięzły → rozbudowany, P = 100%), pewność JEV 100%; długość wypowiedzi: 18 → 213 tokenów",
+    "changes": {
+      "engagement_level": 0.73,
+      "confidence_level": -1.59,
+      "communication_style": 1.86
+    },
+    "quote": "Nie wiem jak to się przekłada na ty."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie: 1.77 → 1.87 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.08 → 0.44 (niska), pewność JEV 32%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 213 → 449 tokenów",
+    "changes": {
+      "confidence_level": 0.36
+    },
+    "quote": "Identyfikacją obiektów na stronie była właśnie metoda, która się tak samo nazywała."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie: 1.87 → 1.89 (bez istotnej zmiany, wysokie); pewność siebie: 0.44 → 0.47 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 449 → 874 tokenów",
+    "changes": {},
+    "quote": "A na wykresie widzę, że szerokość trzonu większa niż 16 56 już daje sporo większe prawdopodobieństwo, że to będzie grzyb jadalny."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.89 → 1.83 (bez istotnej zmiany, wysokie); pewność siebie: 0.47 → 0.55 (bez istotnej zmiany, umiarkowana); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 874 → 933 tokenów",
+    "changes": {},
+    "quote": "A też wydaje mi się, że że wykres tutaj byłby dosyć użyteczny."
+  }
+]

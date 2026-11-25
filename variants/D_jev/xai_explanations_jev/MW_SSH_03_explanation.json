@@ -1,0 +1,177 @@
+[
+  {
+    "slide_pair": [
+      "__S00__",
+      "__S1__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.53 → 0.20 (wysokie → niskie, P = 81%), pewność JEV 72%; pewność siebie ↑ 0.55 → 1.58 (umiarkowana → wysoka, P = 63%), pewność JEV 37%; styl ↓ 1.99 → 0.00 (rozbudowany → zwięzły, P = 100%), pewność JEV 100%; długość wypowiedzi: 223 → 2 tokenów",
+    "changes": {
+      "engagement_level": -1.33,
+      "confidence_level": 1.03,
+      "communication_style": -1.99
+    },
+    "quote": null
+  },
+  {
+    "slide_pair": [
+      "__S1__",
+      "__S2__"
+    ],
+    "explanation": "zaangażowanie: 0.20 → 0.21 (bez istotnej zmiany, niskie); pewność siebie ↓ 1.58 → 1.08 (wysoka → umiarkowana, P = 56%), pewność JEV 34%; styl: 0.00 → 0.00 (bez istotnej zmiany, zwięzły); długość wypowiedzi: 2 → 1 tokenów",
+    "changes": {
+      "confidence_level": -0.5
+    },
+    "quote": null
+  },
+  {
+    "slide_pair": [
+      "__S2__",
+      "__S3__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.21 → 1.08 (niskie → umiarkowane, P = 62%), pewność JEV 43%; pewność siebie ↓ 1.08 → 0.06 (umiarkowana → niska, P = 95%), pewność JEV 91%; styl ↑ 0.00 → 1.96 (zwięzły → rozbudowany, P = 96%), pewność JEV 92%; długość wypowiedzi: 1 → 51 tokenów",
+    "changes": {
+      "engagement_level": 0.87,
+      "confidence_level": -1.02,
+      "communication_style": 1.96
+    },
+    "quote": "Nie wiem co to jest."
+  },
+  {
+    "slide_pair": [
+      "__S3__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.08 → 1.70 (umiarkowane → wysokie, P = 71%), pewność JEV 56%; pewność siebie: 0.06 → 0.03 (bez istotnej zmiany, niska); styl: 1.96 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 51 → 237 tokenów",
+    "changes": {
+      "engagement_level": 0.62
+    },
+    "quote": "No jeśli wziąć pod uwagę jeszcze ten pierwszy wykres, że tutaj jednak jest więcej trujących grzybów w tym zbiorze danych, no to raczej jak jest przyrośnięty, no to jest trujący, …"
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie: 1.70 → 1.65 (bez istotnej zmiany, wysokie); pewność siebie: 0.03 → 0.03 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 237 → 191 tokenów",
+    "changes": {},
+    "quote": "To większość tych grzybów rośnie w lasach jakby, więc koło drzew, że tak powiem, ogólnie."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie: 1.65 → 1.85 (bez istotnej zmiany, wysokie); pewność siebie: 0.03 → 0.17 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 191 → 390 tokenów",
+    "changes": {},
+    "quote": "No ja próbuję sobie to jakoś zwizualizować, bo rozumiem, że to po prostu są dane statystyczne jednak, a ja mam statystykę w tym semestrze i jednak muszę coś wiedzieć na …"
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.85 → 1.22 (wysokie → umiarkowane, P = 62%), pewność JEV 43%; pewność siebie: 0.17 → 0.22 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 390 → 223 tokenów",
+    "changes": {
+      "engagement_level": -0.63
+    },
+    "quote": "z tego co pamiętam, to po prawej stronie chyba jest to, co potwierdza jakby hipotezę, czyli raczej, że jest trujący, a po lewej jakby, że jest nietrujący, no to tutaj …"
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.22 → 1.83 (umiarkowane → wysokie, P = 83%), pewność JEV 74%; pewność siebie ↑ 0.22 → 0.51 (niska), pewność JEV 24%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 223 → 401 tokenów",
+    "changes": {
+      "engagement_level": 0.61,
+      "confidence_level": 0.29
+    },
+    "quote": "Ja bym powiedziała, że przedstawia to, jak mocno jakaś poszczególna cecha wpływa na to, że ten grzyb jest jadalny czy trujący."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie: 1.83 → 1.90 (bez istotnej zmiany, wysokie); pewność siebie: 0.51 → 0.67 (bez istotnej zmiany, umiarkowana); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 401 → 253 tokenów",
+    "changes": {},
+    "quote": "Że ja to ułożyłam sobie w głowie jak wygląda ten wykres, bo ja tak najpierw nie mogłam zrozumieć po jakiej stronie jest jadalny czy niejadalny, to już zobaczyłam, że jest."
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.90 → 1.59 (wysokie), pewność JEV 37%; pewność siebie ↓ 0.67 → 0.09 (umiarkowana → niska, P = 91%), pewność JEV 86%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 253 → 153 tokenów",
+    "changes": {
+      "engagement_level": -0.31,
+      "confidence_level": -0.58
+    },
+    "quote": "No ja rozumiem to tak, że tutaj są przedstawione dane z jakiegoś owocnika, czyli jego wymiary, tam kolory, i sztuczna inteligencja uzupełnia brakujące dane, i na tej podstawie może się …"
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.59 → 1.29 (wysokie → umiarkowane, P = 65%), pewność JEV 48%; pewność siebie: 0.09 → 0.08 (bez istotnej zmiany, niska); styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 153 → 111 tokenów",
+    "changes": {
+      "engagement_level": -0.3
+    },
+    "quote": "Nie wiem szczerze mówiąc."
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie: 1.29 → 1.14 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.08 → 0.01 (bez istotnej zmiany, niska); styl: 1.99 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 111 → 203 tokenów",
+    "changes": {},
+    "quote": "i tutaj nie wiem ile to jest, 3, 4 milimetry?"
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.14 → 1.67 (umiarkowane → wysokie, P = 68%), pewność JEV 52%; pewność siebie ↑ 0.01 → 0.82 (niska → umiarkowana, P = 78%), pewność JEV 67%; styl: 2.00 → 1.88 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 203 → 70 tokenów",
+    "changes": {
+      "engagement_level": 0.53,
+      "confidence_level": 0.81
+    },
+    "quote": "No wydaje mi się, że sposób przyrastania blaszek do trzonu, średnica kapelusza, wysokość trzonu tutaj mają takie dość wielkie znaczenie dla zidentyfikowania jaki jest to grzyb."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S14__"
+    ],
+    "explanation": "zaangażowanie: 1.67 → 1.84 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.82 → 1.76 (umiarkowana → wysoka, P = 79%), pewność JEV 64%; styl ↓ 1.88 → 1.29 (rozbudowany), pewność JEV 0%; długość wypowiedzi: 70 → 28 tokenów",
+    "changes": {
+      "confidence_level": 0.94,
+      "communication_style": -0.59
+    },
+    "quote": "No tutaj to będzie powierzchnia kapelusza, kształt kapelusza i średnica kapelusza mają znaczenie, bo bez nich tak o 13, 13,5% się obniża prawdopodobieństwo, że to jest trujący grzyb."
+  },
+  {
+    "slide_pair": [
+      "__S14__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie: 1.84 → 1.75 (bez istotnej zmiany, wysokie); pewność siebie ↓ 1.76 → 0.65 (wysoka → umiarkowana, P = 65%), pewność JEV 48%; styl ↑ 1.29 → 2.00 (rozbudowany), pewność JEV 100%; długość wypowiedzi: 28 → 389 tokenów",
+    "changes": {
+      "confidence_level": -1.11,
+      "communication_style": 0.71
+    },
+    "quote": "Nie wiem, wszystko było, więc są czytelne."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.75 → 1.79 (bez istotnej zmiany, wysokie); pewność siebie: 0.65 → 0.44 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 389 → 315 tokenów",
+    "changes": {},
+    "quote": "Wydaje mi się, że ona jest czytelna, po prostu chodzi o to, że na przykład niektóre wykresy są takie bardziej ogólne, bardziej nieznane, jak na przykład tutaj na tych pierwszych …"
+  }
+]

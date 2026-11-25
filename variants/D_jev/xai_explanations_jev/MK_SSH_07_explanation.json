@@ -1,0 +1,162 @@
+[
+  {
+    "slide_pair": [
+      "__S1__",
+      "__S2__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.86 → 1.15 (umiarkowane), pewność JEV 37%; pewność siebie: 0.12 → 0.31 (bez istotnej zmiany, niska); styl ↑ 0.54 → 1.99 (zwięzły → rozbudowany, P = 99%), pewność JEV 98%; długość wypowiedzi: 20 → 110 tokenów",
+    "changes": {
+      "engagement_level": 0.29,
+      "communication_style": 1.45
+    },
+    "quote": "Pytania są jak mi się wydaje ważne, ale przypuszczam, że taki zwykły użytkownik nie zwróciłby uwagi na te informacje."
+  },
+  {
+    "slide_pair": [
+      "__S2__",
+      "__S3__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.15 → 1.59 (umiarkowane → wysokie, P = 61%), pewność JEV 38%; pewność siebie ↑ 0.31 → 0.84 (niska → umiarkowana, P = 74%), pewność JEV 61%; styl: 1.99 → 1.87 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 110 → 32 tokenów",
+    "changes": {
+      "engagement_level": 0.44,
+      "confidence_level": 0.53
+    },
+    "quote": "Oczywiście, jeżeli ktoś zna angielski."
+  },
+  {
+    "slide_pair": [
+      "__S3__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie: 1.59 → 1.68 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.84 → 0.02 (umiarkowana → niska, P = 98%), pewność JEV 97%; styl: 1.87 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 32 → 278 tokenów",
+    "changes": {
+      "confidence_level": -0.82
+    },
+    "quote": "Jeżeli chodzi o ten sposób przyrastania blaszek do trzonu, to wydaje mi się po prostu, że."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.68 → 1.97 (wysokie), pewność JEV 96%; pewność siebie ↑ 0.02 → 0.88 (niska → umiarkowana, P = 87%), pewność JEV 80%; styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 278 → 132 tokenów",
+    "changes": {
+      "engagement_level": 0.29,
+      "confidence_level": 0.86
+    },
+    "quote": "Jak mi się wydaje, większość też nie będzie wiedziała o co to dokładnie jest hymenofor."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie: 1.97 → 1.74 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.88 → 0.01 (umiarkowana → niska, P = 99%), pewność JEV 98%; styl: 1.99 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 132 → 223 tokenów",
+    "changes": {
+      "confidence_level": -0.87
+    },
+    "quote": "Minimum chodzi jej o minimalną średnicę kapelusza i wysokość trzonu i szerokość członu, bo nie jestem pewna."
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie: 1.74 → 1.93 (bez istotnej zmiany, wysokie); pewność siebie: 0.01 → 0.17 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 223 → 390 tokenów",
+    "changes": {},
+    "quote": "Znaczy patrzę, patrzę tylko się zastanawiam bo z taką wizualizacją też nigdy nie miałam do czynienia."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie: 1.93 → 1.95 (bez istotnej zmiany, wysokie); pewność siebie: 0.17 → 0.08 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 390 → 674 tokenów",
+    "changes": {},
+    "quote": "To wydaje mi się, że jest bardziej czytelne."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie: 1.95 → 1.98 (bez istotnej zmiany, wysokie); pewność siebie: 0.08 → 0.18 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 674 → 397 tokenów",
+    "changes": {},
+    "quote": "Wydaje mi się, że widziałam coś podobnego."
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 1.98 → 1.90 (bez istotnej zmiany, wysokie); pewność siebie: 0.18 → 0.23 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 397 → 363 tokenów",
+    "changes": {},
+    "quote": "Też może to, co powiem, będzie trochę naiwne, ale łatwiej, by mi było to porównać, gdyby ta dolna tabelka znalazła się przy górnej, bo miałabym wszystko w jednym rządku."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie: 1.90 → 1.93 (bez istotnej zmiany, wysokie); pewność siebie ↑ 0.23 → 1.24 (niska → umiarkowana, P = 68%), pewność JEV 52%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 363 → 225 tokenów",
+    "changes": {
+      "confidence_level": 1.01
+    },
+    "quote": "Też wszystko jasne."
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.93 → 1.47 (wysokie → umiarkowane, P = 53%), pewność JEV 30%; pewność siebie ↓ 1.24 → 0.01 (umiarkowana → niska, P = 99%), pewność JEV 98%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 225 → 146 tokenów",
+    "changes": {
+      "engagement_level": -0.46,
+      "confidence_level": -1.23
+    },
+    "quote": "Zastanawiam się, czy to też jest odniesienie do liczby bazy danych, bo chyba nie, w bazie danych."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.47 → 1.80 (umiarkowane → wysokie, P = 81%), pewność JEV 72%; pewność siebie ↑ 0.01 → 0.71 (niska → umiarkowana, P = 67%), pewność JEV 50%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 146 → 214 tokenów",
+    "changes": {
+      "engagement_level": 0.33,
+      "confidence_level": 0.7
+    },
+    "quote": "No i na pewno łatwiej jest mu przyporządkować, że jest jadalny albo niejadalny."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S14__"
+    ],
+    "explanation": "zaangażowanie: 1.80 → 1.93 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.71 → 0.27 (umiarkowana → niska, P = 73%), pewność JEV 60%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 214 → 184 tokenów",
+    "changes": {
+      "confidence_level": -0.44
+    },
+    "quote": "I zielony przy okazji nie Jestem pewna, musiałabym właśnie zajrzeć do atlasu, ale wydaje mi się, że mogłyby się takie znaleźć."
+  },
+  {
+    "slide_pair": [
+      "__S14__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie: 1.93 → 1.80 (bez istotnej zmiany, wysokie); pewność siebie ↓ 0.27 → 0.01 (niska), pewność JEV 98%; styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 184 → 1064 tokenów",
+    "changes": {
+      "confidence_level": -0.26
+    },
+    "quote": "Może coś mi powie więcej."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.80 → 1.92 (bez istotnej zmiany, wysokie); pewność siebie: 0.01 → 0.03 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 1064 → 1314 tokenów",
+    "changes": {},
+    "quote": "No tutaj jest najwięcej danych, tylko nie Jestem w stanie określić, co i jak po prostu."
+  }
+]

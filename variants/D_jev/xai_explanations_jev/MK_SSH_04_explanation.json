@@ -1,0 +1,149 @@
+[
+  {
+    "slide_pair": [
+      "__S1__",
+      "__S2__"
+    ],
+    "explanation": "zaangażowanie: 1.11 → 0.97 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 1.45 → 0.53 (umiarkowana → niska, P = 54%), pewność JEV 19%; styl ↓ 1.71 → 1.35 (rozbudowany), pewność JEV 2%; długość wypowiedzi: 97 → 46 tokenów",
+    "changes": {
+      "confidence_level": -0.92,
+      "communication_style": -0.36
+    },
+    "quote": "Wyjściowy zbiór danych, na którym pracowała jaj pochodzi z UC Irvine Machine Learning Repository, czyli biblioteki ćwiczebnej zbiorów danych Uniwersytetu kalifornijskiego w."
+  },
+  {
+    "slide_pair": [
+      "__S2__",
+      "__S3__"
+    ],
+    "explanation": "zaangażowanie: 0.97 → 1.04 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.53 → 1.84 (niska → wysoka, P = 85%), pewność JEV 74%; styl: 1.35 → 1.39 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 46 → 65 tokenów",
+    "changes": {
+      "confidence_level": 1.31
+    },
+    "quote": "Zbiór danych dataset zawiera informacje o 60 Zero 60 90 owocnikach 173 gatunków grzybów sklasyfikowanych jako jadalne, albo niejadalne lub trujące."
+  },
+  {
+    "slide_pair": [
+      "__S3__",
+      "__S4__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.04 → 1.51 (umiarkowane → wysokie, P = 52%), pewność JEV 26%; pewność siebie ↓ 1.84 → 0.01 (wysoka → niska, P = 99%), pewność JEV 98%; styl ↑ 1.39 → 1.99 (rozbudowany), pewność JEV 98%; długość wypowiedzi: 65 → 168 tokenów",
+    "changes": {
+      "engagement_level": 0.47,
+      "confidence_level": -1.83,
+      "communication_style": 0.6
+    },
+    "quote": "Nie wiem czy nie widzę podpisu, czy go nie ma."
+  },
+  {
+    "slide_pair": [
+      "__S4__",
+      "__S5__"
+    ],
+    "explanation": "zaangażowanie ↓ 1.51 → 0.93 (wysokie → umiarkowane, P = 69%), pewność JEV 53%; pewność siebie: 0.01 → 0.00 (bez istotnej zmiany, niska); styl: 1.99 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 168 → 148 tokenów",
+    "changes": {
+      "engagement_level": -0.58
+    },
+    "quote": "W takim, że to jest to znowu jest ta ilość, tylko też nie wiem do końca, czego."
+  },
+  {
+    "slide_pair": [
+      "__S5__",
+      "__S6__"
+    ],
+    "explanation": "zaangażowanie ↓ 0.93 → 0.58 (umiarkowane), pewność JEV 34%; pewność siebie: 0.00 → 0.01 (bez istotnej zmiany, niska); styl: 1.99 → 1.92 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 148 → 124 tokenów",
+    "changes": {
+      "engagement_level": -0.35
+    },
+    "quote": "Wydaje mi się, że część z nich była przedstawiono na wykresach, więc może dlatego."
+  },
+  {
+    "slide_pair": [
+      "__S6__",
+      "__S7__"
+    ],
+    "explanation": "zaangażowanie ↑ 0.58 → 0.99 (umiarkowane), pewność JEV 46%; pewność siebie: 0.01 → 0.00 (bez istotnej zmiany, niska); styl: 1.92 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 124 → 520 tokenów",
+    "changes": {
+      "engagement_level": 0.41
+    },
+    "quote": "I niestety nie wiem co on przedstawia tak w sumie."
+  },
+  {
+    "slide_pair": [
+      "__S7__",
+      "__S8__"
+    ],
+    "explanation": "zaangażowanie: 0.99 → 1.02 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.00 → 0.00 (bez istotnej zmiany, niska); styl: 2.00 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 520 → 435 tokenów",
+    "changes": {},
+    "quote": "f od x, a widzę, wartość bazowa."
+  },
+  {
+    "slide_pair": [
+      "__S8__",
+      "__S9__"
+    ],
+    "explanation": "zaangażowanie: 1.02 → 0.96 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.00 → 0.00 (bez istotnej zmiany, niska); styl: 1.99 → 1.99 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 435 → 323 tokenów",
+    "changes": {},
+    "quote": "Ok, to ja bym zgadywała, że to są te, które są na czerwono, które sięgają, są skierowane w prawo, bo po prawej stronie są trujące."
+  },
+  {
+    "slide_pair": [
+      "__S9__",
+      "__S10__"
+    ],
+    "explanation": "zaangażowanie: 0.96 → 0.97 (bez istotnej zmiany, umiarkowane); pewność siebie: 0.00 → 0.04 (bez istotnej zmiany, niska); styl: 1.99 → 1.91 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 323 → 216 tokenów",
+    "changes": {},
+    "quote": "Ale ten zapis jest znowu nieprzyjemny, więc nie niezbyt chciało by mi się go czytać."
+  },
+  {
+    "slide_pair": [
+      "__S10__",
+      "__S11__"
+    ],
+    "explanation": "zaangażowanie: 0.97 → 1.13 (bez istotnej zmiany, umiarkowane); pewność siebie ↑ 0.04 → 1.21 (niska → umiarkowana, P = 57%), pewność JEV 36%; styl: 1.91 → 1.98 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 216 → 232 tokenów",
+    "changes": {
+      "confidence_level": 1.17
+    },
+    "quote": "Jednakże, ze względu na ograniczenia modelu, zaleca się, aby nie traktować jego predykcji jako ostatecznego wyznacznika decyzji, a raczej jako jeden z elementów w procesie identyfikacji grzybów.​ W naszym badaniu …"
+  },
+  {
+    "slide_pair": [
+      "__S11__",
+      "__S12__"
+    ],
+    "explanation": "zaangażowanie: 1.13 → 1.22 (bez istotnej zmiany, umiarkowane); pewność siebie ↓ 1.21 → 0.00 (umiarkowana → niska, P = 100%), pewność JEV 100%; styl: 1.98 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 232 → 345 tokenów",
+    "changes": {
+      "confidence_level": -1.21
+    },
+    "quote": "Ale nie wiem, nie wiem jak się czyta takie pudełkowe wykresy, bo nie widziałam."
+  },
+  {
+    "slide_pair": [
+      "__S12__",
+      "__S13__"
+    ],
+    "explanation": "zaangażowanie ↑ 1.22 → 1.60 (umiarkowane → wysokie, P = 61%), pewność JEV 40%; pewność siebie: 0.00 → 0.07 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 345 → 732 tokenów",
+    "changes": {
+      "engagement_level": 0.38
+    },
+    "quote": "Ok to chyba w miarę rozumiem."
+  },
+  {
+    "slide_pair": [
+      "__S13__",
+      "__S88__"
+    ],
+    "explanation": "zaangażowanie: 1.60 → 1.73 (bez istotnej zmiany, wysokie); pewność siebie: 0.07 → 0.17 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 732 → 1152 tokenów",
+    "changes": {},
+    "quote": "Ja będę szukała tego sposobu przyrastania blaszek."
+  },
+  {
+    "slide_pair": [
+      "__S88__",
+      "__S99__"
+    ],
+    "explanation": "zaangażowanie: 1.73 → 1.69 (bez istotnej zmiany, wysokie); pewność siebie: 0.17 → 0.02 (bez istotnej zmiany, niska); styl: 2.00 → 2.00 (bez istotnej zmiany, rozbudowany); długość wypowiedzi: 1152 → 697 tokenów",
+    "changes": {},
+    "quote": "Znaczy dla mnie to ogólnie ma sens, bo się do niej przyzwyczaiłam, ale ogólnie jakby to ma jakiś sens."
+  }
+]
